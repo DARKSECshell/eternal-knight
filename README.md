@@ -1,3 +1,3 @@
 # eternal-knight
 
-RANSOMWARE LINUX
+RANSOMWARE Windows
